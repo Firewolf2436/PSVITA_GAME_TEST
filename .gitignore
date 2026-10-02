@@ -6,6 +6,17 @@
 *.lo
 *.o
 *.obj
+*.mdlx
+*.fm
+*.fr
+*.adpx
+*.gr
+*.it
+*.mset
+*.us
+*.gr
+*.sp
+*.map
 
 # Precompiled Headers
 *.gch
@@ -38,6 +49,7 @@
 *.exe
 *.out
 *.app
+*.vpk
 
 # Build directories
 build/
